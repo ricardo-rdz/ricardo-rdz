@@ -1,8 +1,8 @@
-# Ricardo Rodríguez · SDET
+# Ricardo Rodríguez · Senior SDET
 
-**Software Development Engineer in Test** | Guadalajara, Mexico
+**Senior Software Development Engineer in Test** | 12+ years in QA & Test Automation | Zapopan, Mexico
 
-Focused on frontend, backend, and performance test automation. I work with modern frameworks to ensure quality across every layer of the software stack.
+Experienced across enterprise environments (PwC, Wizeline, HCL Technologies, Amdocs, TCS), building automation frameworks from the ground up across web, API, performance, and mobile layers.
 
 ---
 
@@ -14,6 +14,12 @@ Focused on frontend, backend, and performance test automation. I work with moder
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TestCafe](https://img.shields.io/badge/TestCafe-65BD60?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+
+### Mobile Testing
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### API & Performance
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -31,6 +37,7 @@ Focused on frontend, backend, and performance test automation. I work with moder
 
 | Project | Description | Stack |
 |---|---|---|
+| [WDIO_appium](https://github.com/ricardo-rdz/WDIO_appium) | Mobile test automation framework for Android/iOS | WebdriverIO · Appium · JavaScript |
 | [saucedemo](https://github.com/ricardo-rdz/saucedemo) | UI automation for the Sauce Labs demo app | Java · Gradle · Selenium |
 | [assignmentSesion1](https://github.com/ricardo-rdz/assignmentSesion1) | Frontend automation challenge | JavaScript · TestCafe |
 | [assignmentSesion2](https://github.com/ricardo-rdz/assignmentSesion2) | API testing with Postman and Newman | Postman · Newman · HTML |
@@ -50,7 +57,3 @@ Focused on frontend, backend, and performance test automation. I work with moder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-rodr%C3%ADguez-romero-6a9506136)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.rod.rom@gmail.com)
-
----
-
-*Open to SDET opportunities · Remote & On-site · Mexico*
